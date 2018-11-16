@@ -6,7 +6,12 @@
     "scripts": {
         "test": "mocha"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BMonterroza/Unit_Testing_b0nji.git"
+    },
     "author": "B0nji",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/BMonterroza/Unit_Testing_b0nji/issues"
     },
